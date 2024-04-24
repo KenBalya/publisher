@@ -12,3 +12,8 @@ RabbitMQ Screen:
 Console screen:
 ![alt text](image-2.png)
 When I ran cargo build in the publisher directory, the publisher sent 5 messages to the subscriber which was processed by the subscriber program.
+
+Message rates chart movement:
+![alt text](image-1.png)
+
+Indicades the activity of publisher sending message to the broker (when publisher program was runned)
