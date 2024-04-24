@@ -1,0 +1,11 @@
+C:\Users\kenba\OneDrive\Documents\FullStack Development\Backend\tutorial8\publisher\target\debug\deps\libborsh-8157625f677dd317.rmeta: C:\Users\kenba\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.9.3\src/lib.rs C:\Users\kenba\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.9.3\src\de\mod.rs C:\Users\kenba\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.9.3\src\de\hint.rs C:\Users\kenba\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.9.3\src\schema.rs C:\Users\kenba\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.9.3\src\schema_helpers.rs C:\Users\kenba\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.9.3\src\ser\mod.rs C:\Users\kenba\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.9.3\src\ser\helpers.rs
+
+C:\Users\kenba\OneDrive\Documents\FullStack Development\Backend\tutorial8\publisher\target\debug\deps\borsh-8157625f677dd317.d: C:\Users\kenba\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.9.3\src/lib.rs C:\Users\kenba\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.9.3\src\de\mod.rs C:\Users\kenba\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.9.3\src\de\hint.rs C:\Users\kenba\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.9.3\src\schema.rs C:\Users\kenba\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.9.3\src\schema_helpers.rs C:\Users\kenba\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.9.3\src\ser\mod.rs C:\Users\kenba\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.9.3\src\ser\helpers.rs
+
+C:\Users\kenba\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.9.3\src/lib.rs:
+C:\Users\kenba\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.9.3\src\de\mod.rs:
+C:\Users\kenba\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.9.3\src\de\hint.rs:
+C:\Users\kenba\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.9.3\src\schema.rs:
+C:\Users\kenba\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.9.3\src\schema_helpers.rs:
+C:\Users\kenba\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.9.3\src\ser\mod.rs:
+C:\Users\kenba\.cargo\registry\src\index.crates.io-6f17d22bba15001f\borsh-0.9.3\src\ser\helpers.rs:

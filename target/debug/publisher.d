@@ -1,0 +1,1 @@
+C:\Users\kenba\OneDrive\Documents\FullStack\ Development\Backend\tutorial8\publisher\target\debug\publisher.exe: C:\Users\kenba\OneDrive\Documents\FullStack\ Development\Backend\tutorial8\publisher\src\main.rs
